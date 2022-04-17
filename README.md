@@ -7,6 +7,7 @@
 ## Tecnologies Used
 - MapKit
 - Equatable
+- Error Handling
 
 ## Struggles
 - It was my first time using it and getting it to work right and efficiently with a view model. 
