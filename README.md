@@ -6,7 +6,6 @@
 
 ## Tecnologies Used
 - MapKit
-- Core Data
 - Equatable
 
 ## Struggles
