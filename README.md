@@ -10,5 +10,5 @@
 - Error Handling
 
 ## Struggles
-- It was my first time using it and getting it to work right and efficiently with a view model. 
-- Creating the app icon. It took me hours to create. I had to learn how to mask objects and create complex shapes. I loved how it turned out in the end. 
+- It was my first time using MapKit and getting it to work right and efficiently with a view model was chanllenging. 
+- It took me hours to create the app icon. I created it in Sketch and I only knew how to use the basics. I learned hoe to mask objetcs and create complex shapes. 
