@@ -4,10 +4,14 @@
 ![Surface-LocationDetails](https://user-images.githubusercontent.com/61842505/163694855-d8de5dd3-64c4-40d8-9308-0053afddfa5d.png)
 ![Surface-EditItem](https://user-images.githubusercontent.com/61842505/163694857-de3e0457-15f9-42c7-80ee-6b03e91c9533.png)
 
+## About
+- MVVM
+- Suuport for dark and light mode
+- Error Handling
+
 ## Tecnologies Used
 - MapKit
 - Equatable
-- Error Handling
 
 ## Struggles
 - It was my first time using MapKit and getting it to work right and efficiently with a view model was chanllenging. 
