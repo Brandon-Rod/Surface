@@ -15,4 +15,4 @@
 
 ## Struggles
 - It was my first time using MapKit and getting it to work right and efficiently with a view model was chanllenging. 
-- It took me hours to create the app icon. I created it in Sketch and I only knew how to use the basics. I learned hoe to mask objetcs and create complex shapes. 
+- It took me hours to create the app icon. I created it in Sketch and I only knew how to use the basics. I learned how to mask objetcs and create complex shapes. 
