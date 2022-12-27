@@ -10,6 +10,7 @@
 - Error Handling
 
 ## Tecnologies Used
+- SwiftUI
 - MapKit
 - Equatable
 
